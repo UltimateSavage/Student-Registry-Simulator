@@ -1,0 +1,62 @@
+l
+reg JohnnyBoy 23876
+l
+reg GenghisKhan 25347
+reg James44 36421
+reg James 3d453
+reg James
+l
+del 25347
+l
+pac
+pcl cps209
+pcl cps511
+pcl cps643
+scn cps643
+pcl cps643
+sci cps643
+pcl cps643
+pgr cps643
+psc 34562
+l
+addc 23876 cps643
+pcl cps643
+dropc 38467 cps643
+pcl cps643
+sfg cps643 34562 94
+pgr cps643
+pcl cps209
+pcl cps511
+sfg cps511 34562 99
+pgr cps511
+pst 34562
+pac
+sch cps341 Mon 900 2
+sch cps209 Mnn 900 3
+sch cps209 Mon 700 3
+sch cps209 Mon 1000 5
+sch cps209 Tue 1300 2
+psch
+sch cps643 Fri 1100 3
+psch
+sch cps511 Tue 1400 2
+sch cps511 Wed 1200 2
+sch cps616 thur 1200 2
+sch cps706 mon 1200 2
+psch
+csch cps643
+psch
+csch cps209
+psch
+csch cps511
+psch
+csch cps706
+psch
+sch cps706 thur 1400 3
+sch cps209 thur 800 1
+sch cps511 thur 900 2
+sch cps643 thur 1100 1
+psch
+csch cps616
+psch
+q
