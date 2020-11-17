@@ -1,7 +1,0 @@
-// public void multipleBlocks(String courseCode, String day1, int startTime1,
-    // int duration1, String day2, int startTime2, int duration2){
-
-    // }
-    // public void automatic(String courseCode, int duration){
-
-    // }
